@@ -7,6 +7,9 @@
 # tRollaURa's Github here.
 
 🐧 **QQ:** [**1650108081**](tencent://message/?uin=1650108081&Site=&Menu=yes)
-![Static Badge](https://img.shields.io/badge/Twitter-GinaBe12)
+![Static Badge](https://img.shields.io/badge/QQ-GinaBe12)
+
+![Static Badge](https://img.shields.io/badge/MyBlog-M?link=https%3A%2F%2Ftwitter.com%2FGinaBe12)
+
 
 

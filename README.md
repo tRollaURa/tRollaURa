@@ -6,4 +6,4 @@
 
 # tRollaURa's Github here.
 
-🐧 **QQ:** [**1650108081`**](tencent://message/?uin=1650108081&Site=&Menu=yes)
+🐧 **QQ:** [**1650108081**](tencent://message/?uin=1650108081&Site=&Menu=yes)(https://img.shields.io/badge/any_textsb-you_like-blue)https://img.shields.io/badge/any_textsb-you_like-blue

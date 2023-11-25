@@ -1,4 +1,4 @@
-[![Typing SVG]([https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&pause=1000&color=388AF7&vCenter=true&width=665&height=85&lines=jiyun233%E3%81%AF%E3%81%A8%E3%81%A6%E3%82%82%E5%8F%AF%E6%84%9B%E3%81%84%E3%81%A7%E3%81%99%EF%BC%81)](https://git.io/typing-svg](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=45&pause=1000&color=388AF7&vCenter=true&width=665&height=85&lines=%E6%88%91%E7%88%B1%E4%BD%A0)](https://git.io/typing-svg))
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comfortaa&duration=2000&pause=100&color=0A31F7&center=%E7%9C%9F&vCenter=%E5%81%87&multiline=true&repeat=%E7%9C%9F&random=%E5%81%87&width=435&lines=This+is+tRollaURa!)](https://git.io/typing-svg)
 
 <a href="#">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=tRollaURa&count_private=true&show_icons=true&bg_color=FFFFFF" />

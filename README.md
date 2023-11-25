@@ -1,4 +1,9 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&pause=1000&color=388AF7&vCenter=true&width=665&height=85&lines=jiyun233%E3%81%AF%E3%81%A8%E3%81%A6%E3%82%82%E5%8F%AF%E6%84%9B%E3%81%84%E3%81%A7%E3%81%99%EF%BC%81)](https://git.io/typing-svg)
+
+<a href="#">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=jiyun233&count_private=true&show_icons=true&bg_color=FFFFFF" />
+</a>
+
 
 <!--
 **tRollaURa/tRollaURa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

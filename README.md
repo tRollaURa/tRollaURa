@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=200&color=567EC5&multiline=true&random=false&width=435&height=150&lines=Here+is+trollaura_;S+K+I+D+D+E+R+%3A))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=200&color=567EC5&multiline=true&random=false&width=435&height=150&lines=Here+is+trollaura_;S+K+I+D+D+E+R+%3A%2F)](https://git.io/typing-svg)
 
 <a href="#">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=tRollaURa&count_private=true&show_icons=true&bg_color=FFFFFF" />

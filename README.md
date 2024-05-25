@@ -4,7 +4,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=tRollaURa&count_private=true&show_icons=true&bg_color=FFFFFF" />
 </a>
 
-# tRollaURa's Github here.
+# 王者大神在此,老弟们你们有什么实力啊
 ![Static Badge](https://img.shields.io/badge/QQ-GinaBe12)
 🐧 **QQ:** [**1650108081**](tencent://message/?uin=1650108081&Site=&Menu=yes)
 

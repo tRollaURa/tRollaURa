@@ -9,7 +9,6 @@
     <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tRollaURa&hide=javascript,html,php,powershell,glsl,batchfile,python&theme=onedark" />
 
 # 王者大神在此,老弟们你们有什么实力啊
-![Static Badge](https://img.shields.io/badge/QQ-GinaBe12)
 🐧 **QQ:** [**1650108081**](tencent://message/?uin=1650108081&Site=&Menu=yes)
 
 

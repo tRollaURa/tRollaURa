@@ -5,7 +5,6 @@
     <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tRollaURa&hide=javascript,html,php,powershell,glsl,batchfile,python&theme=onedark" />
 
 # 王者大神在此,老弟们你们有什么实力啊
-🐧 **QQ:** [**1650108081**](tencent://message/?uin=1650108081&Site=&Menu=yes)
 
 
 ![Static Badge](https://img.shields.io/badge/MyBlog-M?link=https%3A%2F%2Ftwitter.com%2FGinaBe12) `https://www.猫娘.icu`
